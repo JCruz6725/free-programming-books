@@ -1,3 +1,5 @@
+#Attention! I do not claim this as my own! Rather I would like for this repo to be in a convinient location for me to access. Thank you.
+
 # List of Free Learning Resources In Many Languages
 
 <div align="center" markdown="1">
